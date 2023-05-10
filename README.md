@@ -6,7 +6,7 @@ URL - https://github.com/Rych17/Python_Movie_Project
 
 Description - This project is about using a file for python to read and create a data about movie ratings and its correlation towards budget.
 
-# Project #2
+Project #2
 
 URL - https://github.com/Rych17/Python_Pokemon_Project
 
