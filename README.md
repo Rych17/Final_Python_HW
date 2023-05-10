@@ -1,2 +1,5 @@
 # Richard Lopez
-Summary of the 3 Python Projects we did in class.
+Project #1
+URL - https://github.com/Rych17/Python_Movie_Project
+Description - This project was about using a file for python to read and create a data about movie ratings and its correlation towards budget.
+
