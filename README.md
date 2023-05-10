@@ -16,3 +16,4 @@ Description - This Python project utilizes the "pokemon" library to generate ASC
 
 URL - https://github.com/Rych17/Python_Finance_Project
 
+Description - A team project (Joshua Ramos) in creating a finance tracker as well as creating a visual diagram to show the user's expense.
